@@ -1,0 +1,38 @@
+body {  
+  background-image: url('https://img.elo7.com.br/product/zoom/2BA9D9D/tecido-degrade-azul-liso-sublimado-280-cm-x-85-cm-tecidos-online.jpg');
+  background-size: auto 100vh;
+  font-family: Arial;
+  height: 100vh;
+}
+
+.menu{
+  background-color: white;
+}
+
+.menu ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+.menu li {
+  list-style: none;
+}
+
+a {
+  color: teal;
+  text-decoration: none;
+}
+
+a:hover {
+  font-family: verdana;
+  text-decoration: underline;
+}
+
+.site-subtittle,
+.site-tittle {
+  text-align: center;
+}
+
+.site-subtittle {
+  font-style: italic;
+}
